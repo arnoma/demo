@@ -1,0 +1,30 @@
+.container{
+  width:100%;
+  padding: 0;
+}
+header{
+  height:100px;
+  width:100%;
+  background-color: #14a2dd;
+}
+.demo-logo{
+  display:block;
+  padding-top: 28px;
+  padding-left:60px;
+}
+.user-pic{
+  display: inline-block;
+}
+.user-pic a{
+  width:75px;
+  height:75px;
+  margin-bottom: 0;
+}
+.user-profile{
+  padding-top: 13px;
+  padding-right: 30px;
+}
+.user-todo{
+  display: inline-block;
+  width:150px;
+}
