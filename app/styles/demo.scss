@@ -25,6 +25,20 @@ header{
   padding-right: 30px;
 }
 .user-todo{
+  padding-left:10px;
   display: inline-block;
   width:150px;
+  vertical-align: top;
+  color:#fff;
+}
+.profile-text{
+  font-size: 13px;
+}
+.user-login{
+  margin-top: 8px;
+}
+.user-login .dropdown-menu span{
+  color:#14a2dd;
+  text-align: center;
+  display: block;
 }
